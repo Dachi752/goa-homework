@@ -1,5 +1,5 @@
-Hello_World= "world"
-print(Hello_World)
+
+print("Hello_World")
 num = 10
 print(num)
 name1 = "dachi1"
