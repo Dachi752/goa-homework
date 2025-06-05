@@ -15,8 +15,3 @@
 #for i in range(1,11):
     #sum += i
 #print(sum)
-
-
-i = 0
-i <= 10
-i = i+1
