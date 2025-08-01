@@ -1,7 +1,7 @@
 #task 3 r
-#name = "giorgi"
-#for i in name:
-   # print(i)
+name = "giorgi"
+for i in name:
+    print(i)
 
 #task 1 r
 #name = "bachi"

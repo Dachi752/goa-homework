@@ -15,3 +15,9 @@ elif oparation == 2:
     print(number1 - number2)
 elif oparation == 3:
     print(number1 * number2)
+elif oparation == 4:
+    print(number1 / number2)
+elif oparation == 5:
+    print(number1 // number2)
+elif oparation == 6:
+    print(number1 % number2)
